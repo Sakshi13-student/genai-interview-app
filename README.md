@@ -108,3 +108,10 @@ GenAI fullstack project/
 │   └── vite.config.js
 │
 └── README.md
+
+## 👩‍💻 Author
+
+**Sakshi Chourasia**
+
+
+**Sakshi C
