@@ -112,6 +112,3 @@ GenAI fullstack project/
 ## 👩‍💻 Author
 
 **Sakshi Chourasia**
-
-
-**Sakshi C
